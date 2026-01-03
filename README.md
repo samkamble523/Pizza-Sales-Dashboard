@@ -63,22 +63,17 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> During my internship at SURE Trust (SURE Pro Ed), I gained valuable hands-on experience in SQL and Power BI through real-world project work. I learned how to collect, clean, and analyze data efficiently, and how to convert raw datasets into meaningful business insights.
 
+This experience helped me strengthen my understanding of SQL queries, data modeling, KPI creation, and dashboard design in Power BI. I also improved my problem-solving skills, analytical thinking, and ability to work independently on a complete project lifecycle.
+
+Overall, this internship enhanced my technical skills and gave me practical exposure to data analytics, reinforcing my interest in building a career in data-driven decision-making.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; Pizza Sales Analysis Dashboard using Power BI → --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
