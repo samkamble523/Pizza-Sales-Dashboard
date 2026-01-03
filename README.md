@@ -72,39 +72,19 @@ Overall, this internship enhanced my technical skills and gave me practical expo
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt; Pizza Sales Analysis Dashboard using Power BI → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong>  Pizza Sales Analysis Dashboard using Power BI </p>
 
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Pizza Sales Analysis Dashboard using Power BI</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  Developed an interactive Pizza Sales Analysis Dashboard using SQL and Power BI to analyze sales performance, customer preferences, and peak ordering trends.
+The project transforms raw sales data into actionable insights through KPIs and visual analytics.
 </p>
 <p>
   <a href="https://github.com/samkamble523/Pizza-Sales-Dashboard/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -120,9 +100,9 @@ Overall, this internship enhanced my technical skills and gave me practical expo
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+>I developed a strong foundation in SQL and Power BI, including data querying, data cleaning, KPI creation, and dashboard design. These sessions helped me understand both theoretical concepts and their practical application through hands-on tasks and real-world examples.
+
+LST sessions provided interactive learning, doubt clarification, and expert guidance, while SST helped me improve self-learning, consistency, and problem-solving skills. Together, they enhanced my technical confidence, analytical thinking, and readiness to work on real-time data analytics projects.
 
 ## **Community Services**
 
@@ -131,20 +111,21 @@ LST and SST sessions helped me....
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
+At Ghati Cancer Hospital Aurangabad
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+ In Gardening area and Public Ground
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+  Neighbour
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+I had the opportunity to help elderly neighbors who recently shifted near my house by assisting them in arranging their household. Their blessings made this experience truly meaningful and memorable.
+This activity taught me the importance of compassion, respect, and responsibility towards senior citizens.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+- Helped create a supportive environment during the blood donation camp. At Ghati Cancer Hospital Aurangabad
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -153,8 +134,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="[https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg](https://github.com/samkamble523/Pizza-Sales-Dashboard/blob/main/Img.jpeg)" alt="Community Service Photo 1" width="30%">
