@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong>Samir Kamble </p>
+    <p><strong>Email ID:</strong> samkamble523@gmail.com </p>
+    <p><strong>College Name:</strong> Deogiri Institute of Engineering and Management Studies </p>
+    <p><strong>Branch/Specialization :</strong> B.Tech (Computer Science and Engineering) </p>
+    <p><strong>College ID:</strong> 2122000144 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> G19-SQL & PowerBI</p>
+    <p><strong>Instructor Name:</strong> SRAVAN NEMANA </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> SRAVAN NEMANA</p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong>Co-Founder of stealth AI Startup</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
