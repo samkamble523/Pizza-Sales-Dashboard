@@ -7,157 +7,119 @@
         style="border-radius: 10px;"
     />
 
-  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (formerly SURE Trust) 
-      </h1>
-<h2 style="color: #2b6cb0; font-family: Arial;">Skill Upgradation for Rural youth Empowerment Trust</h2>
+  <h1 align="center">SURE ProEd (formerly SURE Trust)</h1>
+  <h2>Skill Upgradation for Rural youth Empowerment Trust</h2>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+<hr />
 
-<div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
+## 👤 Student Details
+- **Name:** Samir Kamble  
+- **Email ID:** samkamble523@gmail.com  
+- **College Name:** Deogiri Institute of Engineering and Management Studies  
+- **Branch/Specialization:** B.Tech (Computer Science and Engineering)  
+- **College ID:** 2122000144  
 
-<h2 style = "color:#333;"> Student Details </h2>
-<div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong>Samir Kamble </p>
-    <p><strong>Email ID:</strong> samkamble523@gmail.com </p>
-    <p><strong>College Name:</strong> Deogiri Institute of Engineering and Management Studies </p>
-    <p><strong>Branch/Specialization :</strong> B.Tech (Computer Science and Engineering) </p>
-    <p><strong>College ID:</strong> 2122000144 </p>
-</div>
+<hr />
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+## 📘 Course Details
+- **Course Opted:** G19 – SQL & Power BI  
+- **Instructor Name:** Sravan Nemana  
+- **Duration:** 6 Months  
 
-<h2 style="color:#333;"> Course Details </h2>
-<div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> G19-SQL & PowerBI</p>
-    <p><strong>Instructor Name:</strong> SRAVAN NEMANA </p>
-</div>
-<div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> 6 Months</p>
+<hr />
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+## 🧑‍🏫 Trainer Details
+- **Trainer Name:** Sravan Nemana  
+- **Trainer Designation:** Co-Founder of Stealth AI Startup  
 
-<h2 style="color:#333;"> Trainer Details </h2>
-<div align="left" style="margin: 20px; font-size: 16px;">
+<hr />
 
-<p><strong>Trainer Name:</strong> SRAVAN NEMANA</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong>Co-Founder of stealth AI Startup</p>
+## 📑 Table of Contents
+- Overall Learning  
+- Projects Completed  
+- Project Introduction  
+- Technologies Used  
+- Roles and Responsibilities  
+- Project Report  
+- Learnings from LST & SST  
+- Community Services  
+- Certificate  
+- Acknowledgments  
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+<hr />
 
-## **Table of Contents**
-- [Course Learning](#course-learning-to-be-edited-by-student)
-- [Projects Completed](#projects-completed)
-- [Project Introduction](#project-introduction)
-- [Technologies Used](#technologies-used)
-- [Roles and Responsibilities](#roles-and-responsibilities)
-- [Project Report](#project-report)
-- [Learnings from LST & SST](#learnings-from-lst--sst)
-- [Community Services](#community-services)
-- [Certificate](#certificate)
-- [Acknowledgments](#acknowledgments)
+## 📖 Overall Learning
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+During my internship at **SURE Trust (SURE ProEd)**, I gained hands-on experience in **SQL and Power BI** by working on real-world datasets. I learned how to clean, transform, and analyze data effectively and convert raw information into meaningful insights.
 
+This experience strengthened my understanding of SQL queries, data modeling, KPI creation, and interactive dashboard development in Power BI. It also improved my analytical thinking, problem-solving skills, and ability to work independently across the complete project lifecycle.
 
-## Overall Learning 
-
-> During my internship at SURE Trust (SURE Pro Ed), I gained valuable hands-on experience in SQL and Power BI through real-world project work. I learned how to collect, clean, and analyze data efficiently, and how to convert raw datasets into meaningful business insights.
-
-This experience helped me strengthen my understanding of SQL queries, data modeling, KPI creation, and dashboard design in Power BI. I also improved my problem-solving skills, analytical thinking, and ability to work independently on a complete project lifecycle.
-
-Overall, this internship enhanced my technical skills and gave me practical exposure to data analytics, reinforcing my interest in building a career in data-driven decision-making.
-
-<h2 style="color:#333;"> Projects Completed </h2>
-<div align="left" style="margin: 20px; font-size: 16px;">
-
-<p><strong><a href="#project1">Project 1:</a></strong>  Pizza Sales Analysis Dashboard using Power BI </p>
-
-
-</div>
-
-<!-- Project 1 -->
-<h3 id="project1">Project 1: Pizza Sales Analysis Dashboard using Power BI</h3>
-<p>
-  Developed an interactive Pizza Sales Analysis Dashboard using SQL and Power BI to analyze sales performance, customer preferences, and peak ordering trends.
-The project transforms raw sales data into actionable insights through KPIs and visual analytics.
-</p>
-<p>
-  <a href="https://github.com/samkamble523/Pizza-Sales-Dashboard/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
-
-
-## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
 ---
 
+## ✅ Projects Completed
 
-## **Learnings from LST and SST**
+### **Project 1: Pizza Sales Analysis Dashboard using Power BI**
 
-<!-- add your experiences over here -->
->I developed a strong foundation in SQL and Power BI, including data querying, data cleaning, KPI creation, and dashboard design. These sessions helped me understand both theoretical concepts and their practical application through hands-on tasks and real-world examples.
+Developed an interactive **Pizza Sales Analysis Dashboard** using **SQL and Power BI** to analyze revenue trends, customer preferences, best-selling pizzas, and peak sales hours.  
+The project transforms raw sales data into actionable insights using KPIs and visual analytics.
 
-LST sessions provided interactive learning, doubt clarification, and expert guidance, while SST helped me improve self-learning, consistency, and problem-solving skills. Together, they enhanced my technical confidence, analytical thinking, and readiness to work on real-time data analytics projects.
+🔗 **Project Report:**  
+[View Full Project Report](https://github.com/samkamble523/Pizza-Sales-Dashboard/blob/main/SURE%20Trust%20project%20document.pdf)
 
-## **Community Services**
+<hr />
 
-<!-- add descreption in your own words -->
+## 🛠️ Technologies Used
+- SQL  
+- Power BI  
+- Power Query  
+- DAX  
+- CSV / Excel  
+- GitHub  
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+<hr />
+
+## 👨‍💻 Roles and Responsibilities
+- Data cleaning and preprocessing using Power Query  
+- Writing SQL queries for sales analysis  
+- Creating KPIs such as Total Revenue, AOV, and Total Pizzas Sold  
+- Designing interactive dashboards in Power BI  
+- Applying professional visual themes  
+- Project documentation and GitHub publishing  
+
+<hr />
+
+## 📚 Learnings from LST & SST
+
+Live Skill Training (LST) sessions helped me understand concepts through interactive discussions, doubt clarification, and guided practice.  
+Self Skill Training (SST) improved my independent learning, consistency, and problem-solving ability.
+
+Together, these sessions strengthened my technical confidence and readiness to work on real-world data analytics projects.
+
+<hr />
+
+## 🤝 Community Services
+
+During my internship period, I actively participated in multiple community-oriented activities:
 
 ### **Activities Involved**
-At Ghati Cancer Hospital Aurangabad
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- In Gardening area and Public Ground
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Blood Donation Camp** – Ghati Cancer Hospital, Aurangabad  
+- **Tree Plantation Drive** – Public ground and gardening areas  
+- **Helping Senior Citizens** – Assisted elderly neighbors with household arrangements  
 
-  Neighbour
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+These activities helped me develop empathy, social responsibility, and teamwork skills.
 
-I had the opportunity to help elderly neighbors who recently shifted near my house by assisting them in arranging their household. Their blessings made this experience truly meaningful and memorable.
-This activity taught me the importance of compassion, respect, and responsibility towards senior citizens.
+<hr />
 
-### **Impact / Contribution**
+## 🏅 Certificate
 
-- Helped create a supportive environment during the blood donation camp. At Ghati Cancer Hospital Aurangabad
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+The internship certificate will be issued by **SURE Trust** upon successful completion of all required tasks and evaluations.
 
-### **Photos**
+<hr />
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
+## 🙏 Acknowledgments
 
-<div align="center">
-<img src="[https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg](https://github.com/samkamble523/Pizza-Sales-Dashboard/blob/main/Img.jpeg)" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
-</div>
-
----
-
-## **Certificate**
-
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
-
-<!-- add your certificate image url below (inside src='')-->
-
-<p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
-</p>
-
----
-
-## **Acknowledgments**
-
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
-
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+I sincerely thank **SURE Trust (SURE ProEd)** for providing this valuable internship opportunity.  
+Special thanks to **Mr. Sravan Nemana**, Co-Founder of a Stealth AI Startup, for his guidance and mentorship.  
+I am grateful to **Prof. Radhakumari Challa**, Executive Director and Founder of SURE Trust, for her continuous support.
 
